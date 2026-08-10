@@ -5,7 +5,7 @@
 
 ## Portfolio
 
-[📄 Portfolio PDF](./Portfolio.pdf)
+[📄 Portfolio PDF](./portfolio/Portfolio.pdf)
 
 ---
 
